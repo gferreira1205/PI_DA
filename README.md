@@ -156,8 +156,8 @@ En función de lo analizado en el punto anterior, se plantearon tres objetivos e
 
 * *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
 
-    Como se vio en el análisis exploratorio, el 42% de las víctimas mortales se transportaban en moto al momento del hecho. Por lo que se consideró importante proponer el monitoreo de la cantidad de accidentes mortales en este tipo de conductor. Para ello se define a la **Cantidad de accidentes mortales de motociclistas** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. La fórmula para medir la evolución de los accidentes mortales con víctimas en moto es:
-
+    Como se vio en el análisis exploratorio, el 42% de las víctimas mortales se transportaban en moto al momento del hecho. Por lo que se consideró importante proponer el monitoreo de la cantidad de accidentes mortales en este tipo de conductor. Para ello se define a la **Cantidad de accidentes mortales de motociclistas** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. La fórmula para medir la evolución de los accidentes mortales con víctimas en moto es:  
+    
     $\text{Cantidad de accidentes mortales de motociclistas} = -\frac{\text{Víctimas moto año anterior - Víctimas moto año actual}}{\text{Víctimas moto año anterior}}·100$
 
     Donde:
@@ -168,9 +168,9 @@ En función de lo analizado en el punto anterior, se plantearon tres objetivos e
 
 * *Reducir en un 30% la tasa de homicidios de peatones en 2021, en CABA, respecto al año 2016.
 
-    Basándome en el objetivo del Plan de Seguridad Vial trabajado, que era reducir en un 30% los homicidios a causa de sinientros viales, decido llevar este objetivo pero trabajarlo para los peatones con el rango de fechas disponible en el dataset, por esta razón comparo los valores entre diciembre 2021 y diciembre 2016. Su fórmula es:
-
-    $\text{Reducción Tasa Mortalidad Peatones 2016-2021} = \frac{\text{Tasa Mortalidad Peatones dos mil dieciseis - Tasa Mortalidad Peatones dos mil veintiuno}}{\text{Tasa Mortalidad Peatones dos mil dieciseis}}
+    Basándome en el objetivo del Plan de Seguridad Vial trabajado, que era reducir en un 30% los homicidios a causa de sinientros viales, decido llevar este objetivo pero trabajarlo para los peatones con el rango de fechas disponible en el dataset, por esta razón comparo los valores entre diciembre 2021 y diciembre 2016. Su fórmula es:  
+    
+    $\text{Reducción Tasa Mortalidad Peatones 2016-2021} = \frac{\text{Tasa Mortalidad Peatones 2016 - Tasa Mortalidad Peatones 2021}}{\text{Tasa Mortalidad Peatones 2016}}
 
 En la siguiente imagen se aprecian los rendimientos de los tres KPI propuestos.
 
