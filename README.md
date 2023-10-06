@@ -33,10 +33,6 @@ En este [documento](Data/NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf) se detallan todas 
 
 Para la elaboración de este proyecto se utilizó Python y Pandas para los procesos de extracción, transformación y carga de los datos, como así también para el análisis exploratorio de los datos. En el siguiente apartado se describen los resultados del análisis.
 
-Luego, para la obtención complementaria de datos para el cálculo de la población en el año 2021 se realizó webscraping utilizando la librería BeautifulSoup. Todos los detalles se explican [aquí](Jupyter_Notebooks\02_Datos_poblacion_CABA.ipynb).
-
-Finalmente, para la construcción de un dashboard interactivo se utiliza Power BI, el cuál se puede consultar [aquí](PI2_homicidios.pbix). También se puede visualizar online en este [link](https://www.novypro.com/project/homicidios-por-siniestros-viales-en-la-ciudad-aut%C3%B3noma-de-buenos-aires-argentina).
-
 ## ETL y EDA
 
 Se realizó un proceso de extracción, transformación y carga de los datos (ETL) y un análisis exploratorio exahustivo (EDA), primero para los datos de "HECHOS" y luego para los de "VÍCTIMAS", donde se estandarizaron nombres de las variables, se analizaron nulos y duplicados de los registros, se eliminaron columnas redundantes o con muchos valores faltantes, entre otras tareas. Una vez finalizado este proceso para los dos conjuntos de datos de "Homicidios" se generaro dos dataframes 'df_hechos' y 'df_victimas', que fueron luego exportados en formato excel para analizar la información y realizar los dashboards y KPI´S en Power BI.
