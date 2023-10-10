@@ -123,6 +123,16 @@ Cuando analizamos la distribución de **género** en los datos:
 
     Es importante tener en cuenta que, aunque la mayoría de los registros corresponden a individuos de género masculino, esto no implica necesariamente que sean responsables de los incidentes. La información adicional y un análisis más detallado pueden ayudar a comprender mejor las circunstancias de los incidentes y los roles desempeñados por individuos de diferentes géneros.
 
+    Buscando información adicional que ayude a explicar esta brecha tan grande, encontramos un estudio realizado en 2021 por Caja Seguros y curado por socióloga y especialista en movilidad urbana Leda Pereyra acerca de los hábitos y las costumbres en el escenario vial que revela lo siguiente:
+
+        "La muestra estuvo compuesta de 400 casos, de los cuales la mitad fueron mujeres y la mitad, hombres de entre 18 y 60 años. El 50% reside el Área Metropolitana de Buenos Aires (AMBA), un 15% de Mendoza, otro 15% de Córdoba, un 10% de Tucumán y otro 10% de Río Negro.
+
+        Algunos de sus resultados indican que, la edad promedio en que empiezan a conducir es más alta que la de los varones. No obstante, aunque entre 7 y 8 de cada 10 mujeres no cuentan con licencias de conducir, la cantidad de conductoras aumentó en los últimos años.
+    
+        También los resultados indican que en los autos, el 18,6% es conducido por mujeres y el 81,4 por hombres. En cuanto a motos los porcentajes son de 21,3 y 78,7% para mujeres y hombres respectivamente"
+
+    Esto explica claramente la diferencia en cuanto a la tasa de víctimas hombres respecto a mujeres.
+
     También se observa un pequeño porcentaje de registros con la categoría 'SD' (sin datos), que representa el 1.0%. Estos casos pueden requerir una revisión adicional para garantizar la integridad de la información.  
 
 Análisis de la columna **EDAD**
