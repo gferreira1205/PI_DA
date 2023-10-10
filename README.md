@@ -190,8 +190,8 @@ En función de lo analizado en el punto anterior, se plantearon tres objetivos e
 
     Basándome en el objetivo del Plan de Seguridad Vial trabajado, que era reducir en un 30% los homicidios a causa de sinientros viales, decido llevar este objetivo pero trabajarlo para los peatones con el rango de fechas disponible en el dataset, por esta razón comparo los valores entre diciembre 2021 y diciembre 2016. Su fórmula es:  
     
-    $
-    \text{Reducción Tasa Mortalidad Peatones 2016-2021} = \frac{\text{Tasa Mortalidad Peatones 2016 - Tasa Mortalidad Peatones 2021}}{\text{Tasa Mortalidad Peatones 2016}}
+    $  
+    \text{Reducción Tasa Mortalidad Peatones 2016-2021} = \frac{\text{Tasa Mortalidad Peatones 2016 - Tasa Mortalidad Peatones 2021}}{\text{Tasa Mortalidad Peatones 2016}}  
     $
 
 En la siguiente imagen se aprecian los rendimientos de los tres KPI propuestos.
